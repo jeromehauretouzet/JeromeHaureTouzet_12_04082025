@@ -1,0 +1,17 @@
+[
+  {
+    "id": "parcours",
+    "title": "Mon Parcours",
+    "content": "Je suis passionné par les nouvelles technologie du web et j'ai choisi de me spécialiser sur React.js. Je me tiens à votre disposition pour créer des sites web modernes entièrement responsive. Pour moi, un site réussi est un site qui allie esthétique moderne et fluidité technique. Je m'attache donc à développer des applications non seulement performantes, mais aussi agréables et simples à utiliser pour chaque visiteur."
+  },
+  {
+    "id": "competences",
+    "title": "Mes Compétences",
+    "content": "Je maîtrise les technologies essentielles du web : HTML5, CSS3 et SASS pour l'intégration, JavaScript pour la logique et l'interactivité, et bien sûr React pour construire des applications web modernes et dynamiques."
+  },
+  {
+    "id": "contact",
+    "title": "Contact",
+    "content": "Vous avez un projet, une vision ? Mon rôle est de mettre mon expertise technique au service de votre idée. Discutons-en et construisons ensemble le site web qui vous ressemble. Vous pouvez me contacter par email à l'adresse : jeromehauretouzet@gmail.com"
+  }
+]
