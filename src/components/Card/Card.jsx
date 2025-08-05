@@ -3,11 +3,11 @@ import { Link } from 'react-router-dom';
 import './Card.scss';
 
 /**
- * Affiche une carte de présentation pour un logement.
+ * Affiche une carte de présentation pour un projet.
  * @param {object} props
- * @param {string} props.id          - L'identifiant unique du logement, utilisé pour le lien
- * @param {string} props.title       - Le titre du logement à afficher
- * @param {string} props.imageUrl    - L'URL de l'image du logement
+ * @param {string} props.id          - L'identifiant unique du projet, utilisé pour le lien
+ * @param {string} props.title       - Le titre du projet à afficher
+ * @param {string} props.imageUrl    - L'URL de l'image du projet
  */
 function Card({ id, title, imageUrl }) {
 
@@ -16,7 +16,7 @@ function Card({ id, title, imageUrl }) {
   const cardCoverStyle = { backgroundImage: `url(${imageUrl})` };
 
   return (
-    <Link to={`/logement/${id}`} className="card-link-container">                     {/* --- conteneur lien --- */}
+    <Link to={`/projet/${id}`} className="card-link-container">                       {/* --- conteneur lien --- */}
       <article className="card" style={cardCoverStyle}>                               {/* --- Card --- */}
         <div className="card__overlay"></div>                                         {/* --- Overlay --- */}
         <h2 className="card__title">{title}</h2>                                      {/* --- Titre de la Card --- */}

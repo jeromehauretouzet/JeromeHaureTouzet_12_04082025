@@ -1,0 +1,139 @@
+[
+	{
+		"id": "projet-booki",
+		"title": "Booki - Page d'accueil d'une agence de voyage",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-1.jpg",
+		"pictures": [
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-1.jpg",
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-2.jpg"
+		],
+		"description": "Intégration de la page d'accueil pour Booki, une agence de voyage. Le défi principal était de développer une interface responsive en HTML & CSS à partir de maquettes Figma, en assurant une compatibilité sur mobile, tablette et desktop.",
+		"skills": [
+			"HTML5",
+			"CSS3",
+			"Responsive Design",
+			"Figma"
+		],
+		"link": "https://github.com/jeromehauretouzet/JeromeHaureTouzet_3_07012025"
+	},
+	{
+		"id": "projet-ohmyfood",
+		"title": "Ohmyfood - Site mobile de menus de restaurants",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-1.jpg",
+		"pictures": [
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-1.jpg",
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-2.jpg"
+		],
+		"description": "Développement d'un site 'mobile first' pour Ohmyfood. Le projet incluait l'intégration de maquettes, la mise en œuvre d'animations CSS complexes pour enrichir l'expérience utilisateur, et l'utilisation du pré-processeur Sass pour un code plus maintenable.",
+		"skills": [
+			"Sass",
+			"Animations CSS",
+			"Mobile First",
+			"Git & GitHub"
+		],
+		"link": "https://github.com/jeromehauretouzet/JeromeHaureTouzet_4_03022025"
+	},
+	{
+		"id": "projet-portfolio-architecte",
+		"title": "Portfolio d'une architecte d'intérieur",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-1.jpg",
+		"pictures": [
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-1.jpg",
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-2.jpg"
+		],
+		"description": "Création de la partie front-end dynamique du portfolio d'une architecte. Les missions incluaient la manipulation du DOM avec JavaScript pour afficher les projets, la communication avec une API pour récupérer les données, et le développement d'une page de connexion et d'une modale d'upload.",
+		"skills": [
+			"JavaScript",
+			"API Rest",
+			"Manipulation du DOM",
+			"Gestion d'événements"
+		],
+		"link": "https://github.com/jeromehauretouzet/JeromeHaureTouzet_6_07032025"
+	},
+	{
+		"id": "projet-kasa",
+		"title": "Kasa - Application de location immobilière",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"pictures": [
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-2.jpg"
+		],
+		"description": "Développement de l'interface front-end pour Kasa, une application de location immobilière. Ce projet a été l'occasion de construire une Single Page Application (SPA) complète avec React, de gérer la navigation avec React Router, et de structurer l'interface en composants réutilisables.",
+		"skills": [
+			"React",
+			"React Router",
+			"Sass",
+			"Composants React",
+			"Vite"
+		],
+		"link": "https://github.com/jeromehauretouzet/JeromeHaureTouzet_7_17042025"
+	},
+	{
+		"id": "projet-seo-photographe",
+		"title": "Nina Carducci - Optimisation SEO",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-1.jpg",
+		"pictures": [
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-1.jpg",
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-2.jpg"
+		],
+		"description": "Mission d'optimisation complète pour le site d'une photographe. Le travail a consisté à améliorer les performances de chargement, l'accessibilité, et le référencement (SEO) en utilisant des outils comme Lighthouse et Wave et en appliquant les meilleures pratiques (sémantique, métadonnées).",
+		"skills": [
+			"SEO",
+			"Lighthouse",
+			"Accessibilité Web",
+			"Performance Web"
+		],
+		"link": "https://github.com/jeromehauretouzet/JeromeHaureTouzet_08_21062025"
+	},
+	{
+		"id": "projet-debug-724events",
+		"title": "724events - Débuggage et tests",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-1.jpg",
+		"pictures": [
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-1.jpg",
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-2.jpg"
+		],
+		"description": "Finalisation du site d'une agence événementielle. La mission consistait à identifier et corriger les bugs existants à l'aide des Chrome DevTools et de React Developer Tools, et à compléter le cahier de recette avec des scénarios de tests fonctionnels.",
+		"skills": [
+			"Débuggage",
+			"React DevTools",
+			"Tests unitaires",
+			"Cahier de recette"
+		],
+		"link": "https://github.com/jeromehauretouzet/JeromeHaureTouzet_09_14072025"
+	},
+	{
+		"id": "projet-argent-bank",
+		"title": "Argent Bank - Application bancaire React",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-1.jpg",
+		"pictures": [
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-1.jpg",
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-2.jpg"
+		],
+		"description": "Implémentation du front-end d'une application bancaire. Le projet s'est concentré sur la connexion à une API pour l'authentification et la gestion du tableau de bord utilisateur, avec une gestion d'état globale assurée par Redux.",
+		"skills": [
+			"React",
+			"Redux",
+			"API Rest",
+			"Swagger"
+		],
+		"link": "https://github.com/jeromehauretouzet/JeromeHaureTouzet_10_03062025"
+	},
+	{
+		"id": "projet-planning-qwenta",
+		"title": "Qwenta - Planification de projet",
+		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-1.jpg",
+		"pictures": [
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-1.jpg",
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-2.jpg"
+		],
+		"description": "Mission de gestion de projet sans code pour le site 'Menu Maker'. Le travail a consisté à réaliser une veille technologique, rédiger les spécifications techniques à partir des besoins fonctionnels et découper le projet en tâches dans un tableau Kanban.",
+		"skills": [
+			"Gestion de projet",
+      "Méthodologie Agile",
+			"Kanban (Notion)",
+			"Spécifications techniques",
+			"Veille technologique"
+		]
+	}
+]

@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Home from '../pages/Home/Home';
 import About from '../pages/About/About';
-import Lodging from '../pages/Lodging/Lodging';
+import Project from '../pages/Project/Project'; 
 import Error404 from '../pages/Error404/Error404';
 import MainContainer from '../components/Main-container/Main-container';
 
@@ -16,7 +16,7 @@ function AppRouter() {
           {/* --- Route enfants--- */}
           <Route path="/" element={<Home />} />
           <Route path="/a-propos" element={<About />} />
-          <Route path="/logement/:id" element={<Lodging />} />
+          <Route path="/projet/:id" element={<Project />} />
           <Route path="*" element={<Error404 />} />
       </Route>
       </Routes>
